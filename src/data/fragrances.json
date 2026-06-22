@@ -1,0 +1,140 @@
+[
+  {
+    "id": "bleu-horizon",
+    "name": "Bleu Horizon",
+    "brand": "Maison Scentoria",
+    "description": "Ein unendliches Gefühl von Freiheit. Die Frische des Ozeans verschmilzt mit edlen Hölzern und einer tiefen aquatischen Spur.",
+    "style": "Elegant, Frisch, Holzig",
+    "notes": {
+      "head": "Bergamotte, Grapefruit",
+      "heart": "Lavendel, Salbei",
+      "base": "Zedernholz, Moschus"
+    },
+    "category": "Frisch",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Regen", "Wolkig", "Kalt"],
+    "anlass": ["Arbeit", "Freizeit"],
+    "tags": ["Frisch", "Holzig", "Aquatisch", "Arbeit", "Regen"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #0f2b5c 0%, #1e539e 100%)",
+      "liquid": "rgba(30, 83, 158, 0.2)",
+      "accent": "#d4af37",
+      "cap": "#051630"
+    }
+  },
+  {
+    "id": "velvet-noir",
+    "name": "Velvet Noir",
+    "brand": "Maison Scentoria",
+    "description": "Die pure Verführung der Nacht. Ein warmer, reichhaltiger Schleier aus Gewürzen, edlem Tabak und süßer Vanille.",
+    "style": "Warm, Würzig, Elegant",
+    "notes": {
+      "head": "Kardamom, Schwarzer Pfeffer",
+      "heart": "Jasmin, Nelke",
+      "base": "Tabak, Amber, Vanille"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen"],
+    "anlass": ["Abend", "Date"],
+    "tags": ["Warm", "Würzig", "Abend", "Kalt"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #121212 0%, #2c2c2c 100%)",
+      "liquid": "rgba(44, 44, 44, 0.4)",
+      "accent": "#e5c158",
+      "cap": "#111111"
+    }
+  },
+  {
+    "id": "lumiere",
+    "name": "Lumière",
+    "brand": "Scentoria Paris",
+    "description": "Ein strahlender Sommermorgen im Süden. Sanfte Zitrusnoten tanzen mit frisch erblühtem Jasmin und warmem Moschus.",
+    "style": "Blumig, Zitrisch, Leicht",
+    "notes": {
+      "head": "Neroli, Zitrone",
+      "heart": "Jasmin, Orangenblüte",
+      "base": "Weißer Moschus, Sandelholz"
+    },
+    "category": "Blumig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Sonnig", "Heiss"],
+    "anlass": ["Date", "Freizeit"],
+    "tags": ["Blumig", "Sonnig", "Date", "Zitrisch", "Leicht"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #fad0c4 0%, #ffd1ff 100%)",
+      "liquid": "rgba(253, 174, 150, 0.2)",
+      "accent": "#dfb76c",
+      "cap": "#e8a7a1"
+    }
+  },
+  {
+    "id": "citrus-breeze",
+    "name": "Citrus Breeze",
+    "brand": "Scentoria Paris",
+    "description": "Pure Vitalität und spritzige Leichtigkeit. Eine Explosion von reifen Zitrusfrüchten, verfeinert mit frischer Minze.",
+    "style": "Zitrisch, Frisch, Leicht",
+    "notes": {
+      "head": "Mandarine, Limette",
+      "heart": "Minze, Basilikum",
+      "base": "Vetiver, Patchouli"
+    },
+    "category": "Frisch",
+    "stimmung": "Entspannt",
+    "wetter": ["Heiss", "Sonnig"],
+    "anlass": ["Freizeit", "Arbeit"],
+    "tags": ["Zitrisch", "Frisch", "Leicht", "Heiss", "Sonnig", "Freizeit"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #eae5c9 0%, #60c560 100%)",
+      "liquid": "rgba(96, 197, 96, 0.1)",
+      "accent": "#e0a96d",
+      "cap": "#308530"
+    }
+  },
+  {
+    "id": "santal-spirit",
+    "name": "Santal Spirit",
+    "brand": "Scentoria Privé",
+    "description": "Die meditative Seele des Waldes. Tiefes Sandelholz verbindet sich mit trockenem Leder und edlen Puder-Akkorden.",
+    "style": "Holzig, Warm, Tief",
+    "notes": {
+      "head": "Kardamom, Papyrus",
+      "heart": "Iris, Veilchen",
+      "base": "Sandelholz, Leder, Zedernholz"
+    },
+    "category": "Holzig",
+    "stimmung": "Entspannt",
+    "wetter": ["Wolkig", "Kalt"],
+    "anlass": ["Freizeit", "Abend", "Arbeit"],
+    "tags": ["Holzig", "Warm", "Tief", "Wolkig", "Freizeit"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #87431d 0%, #b87333 100%)",
+      "liquid": "rgba(184, 115, 51, 0.2)",
+      "accent": "#ffd700",
+      "cap": "#5c2a0c"
+    }
+  },
+  {
+    "id": "aqua-pure",
+    "name": "Aqua Pure",
+    "brand": "Scentoria Privé",
+    "description": "Wie ein erfrischender Sprung in eine unberührte, kühle Quelle. Absolut rein, kristallklar und unbeschwert.",
+    "style": "Frisch, Rein, Aquatisch",
+    "notes": {
+      "head": "Meersalz, Zitrone",
+      "heart": "Aquatische Akkorde, Seerose",
+      "base": "Treibholz, Ambergris"
+    },
+    "category": "Frisch",
+    "stimmung": "Entspannt",
+    "wetter": ["Heiss", "Sonnig", "Wolkig"],
+    "anlass": ["Freizeit", "Date"],
+    "tags": ["Frisch", "Rein", "Aquatisch", "Heiss", "Freizeit"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #b3e5fc 0%, #4fc3f7 100%)",
+      "liquid": "rgba(79, 195, 247, 0.15)",
+      "accent": "#e0e0e0",
+      "cap": "#ffffff"
+    }
+  }
+]
