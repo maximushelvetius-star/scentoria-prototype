@@ -1,0 +1,853 @@
+[
+  {
+    "id": "bleu-de-chanel",
+    "name": "Bleu de Chanel",
+    "brand": "Chanel",
+    "description": "Das Loblied auf die Freiheit, ausgedrückt in einem holzig-aromatischen Duft mit einer faszinierenden Spur. Ein zeitloser, kraftvoller Duft in einem tiefblauen, geheimnisvollen Flakon.",
+    "style": "Elegant, Frisch, Holzig",
+    "notes": {
+      "head": "Grapefruit, Zitrone, Minze, Rosa Pfeffer",
+      "heart": "Ingwer, Jasmin, Muskatnuss, Iso E Super",
+      "base": "Weihrauch, Vetiver, Zedernholz, Sandelholz, Patchouli, Labdanum"
+    },
+    "category": "Frisch",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Regen", "Wolkig", "Kalt"],
+    "anlass": ["Arbeit", "Freizeit"],
+    "tags": ["Frisch", "Holzig", "Zitrisch", "Zeitlos", "Elegant"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #09152e 0%, #152d5b 100%)",
+      "liquid": "rgba(21, 45, 91, 0.25)",
+      "accent": "#d4af37",
+      "cap": "#030814"
+    }
+  },
+  {
+    "id": "tobacco-vanille",
+    "name": "Tobacco Vanille",
+    "brand": "Tom Ford",
+    "description": "Tom Fords Vorliebe für London stand Pate für diesen Duft, der an die verrauchte, holzige Atmosphäre eines englischen Gentlemen's Club erinnert. Angereichert mit reichhaltigen Gewürzen und süßer Vanille.",
+    "style": "Warm, Würzig, Süß",
+    "notes": {
+      "head": "Tabakblatt, Würzige Noten",
+      "heart": "Vanille, Kakao, Tonkabohne, Tabakblüte",
+      "base": "Getrocknete Früchte, Holzige Noten"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen"],
+    "anlass": ["Abend", "Date"],
+    "tags": ["Warm", "Vanille", "Tabak", "Süß", "Intensiv"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #1d1512 0%, #342822 100%)",
+      "liquid": "rgba(52, 40, 34, 0.35)",
+      "accent": "#bf9a62",
+      "cap": "#120a06"
+    }
+  },
+  {
+    "id": "jadore-lumiere",
+    "name": "J'adore",
+    "brand": "Dior",
+    "description": "Das ultimative Bouquet feinster Blumen aus der ganzen Welt. Eine edle Hommage an die Weiblichkeit, strahlend wie flüssiges Gold mit Noten von Ylang-Ylang, Jasmin und Rose.",
+    "style": "Blumig, Edel, Feminin",
+    "notes": {
+      "head": "Birne, Melone, Magnolie, Pfirsich, Mandarine, Bergamotte",
+      "heart": "Jasmin, Maiglöckchen, Tuberose, Freesie, Rose, Orchidee, Pflaume",
+      "base": "Moschus, Vanille, Brombeere, Zeder"
+    },
+    "category": "Blumig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Sonnig", "Heiss", "Wolkig"],
+    "anlass": ["Date", "Freizeit", "Arbeit"],
+    "tags": ["Blumig", "Elegant", "Fruchtig", "Dior", "Sonnig"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #fef08a 0%, #fef9c3 100%)",
+      "liquid": "rgba(254, 240, 138, 0.3)",
+      "accent": "#ca8a04",
+      "cap": "#eab308"
+    }
+  },
+  {
+    "id": "colonia",
+    "name": "Colonia",
+    "brand": "Acqua di Parma",
+    "description": "Das symbolträchtige Eau de Cologne, das die italienische Lebensweise verkörpert. Ein spritziger Klassiker voller Zitrusfrüchte, Lavendel und warmen mediterranen Nuancen.",
+    "style": "Zitrisch, Frisch, Traditionell",
+    "notes": {
+      "head": "Sizilianische Zitrusfrüchte, Orange, Bergamotte",
+      "heart": "Lavendel, Rosmarin, Eisenkraut, Damaszener Rose",
+      "base": "Vetiver, Sandelholz, Patchouli"
+    },
+    "category": "Frisch",
+    "stimmung": "Entspannt",
+    "wetter": ["Heiss", "Sonnig"],
+    "anlass": ["Freizeit", "Arbeit"],
+    "tags": ["Zitrisch", "Klassiker", "Leicht", "Italienisch"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #fef08a 0%, #eab308 100%)",
+      "liquid": "rgba(234, 179, 8, 0.15)",
+      "accent": "#1c1917",
+      "cap": "#1c1917"
+    }
+  },
+  {
+    "id": "santal-33",
+    "name": "Santal 33",
+    "brand": "Le Labo",
+    "description": "Das offene Feuer im Heu, das sanfte Aufsteigen von Rauch, wo die Sinnlichkeit nach Sonnenuntergang lebendig wird. Eine Ikone mit Suchtfaktor aus cremigem Sandelholz und Leder.",
+    "style": "Holzig, Würzig, Einzigartig",
+    "notes": {
+      "head": "Kardamom, Iris, Veilchen",
+      "heart": "Sandelholz, Papyrus, Leder",
+      "base": "Amber, Zedernholz, Moschus"
+    },
+    "category": "Holzig",
+    "stimmung": "Entspannt",
+    "wetter": ["Wolkig", "Kalt"],
+    "anlass": ["Freizeit", "Abend", "Arbeit"],
+    "tags": ["Holzig", "Kult", "Leder", "Papyrus", "Modern"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #fafaf9 0%, #e7e5e4 100%)",
+      "liquid": "rgba(231, 229, 228, 0.2)",
+      "accent": "#27272a",
+      "cap": "#27272a"
+    }
+  },
+  {
+    "id": "acqua-di-gio",
+    "name": "Acqua di Giò",
+    "brand": "Giorgio Armani",
+    "description": "Inspiriert von der rauen Schönheit der vulkanischen Insel Pantelleria. Wind, Sonne und Gischt vereinen sich in einem frischen, mineralischen Meilenstein der Parfümeurskunst.",
+    "style": "Frisch, Rein, Aquatisch",
+    "notes": {
+      "head": "Limette, Zitrone, Bergamotte, Jasmin, Orange, Mandarine, Neroli",
+      "heart": "Meeresnoten, Jasmin, Calone, Pfirsich, Freesie, Rosmarin, Hyazinthe, Koriander, Muskatnuss, Rose",
+      "base": "Weißer Moschus, Zedernholz, Eichenmoos, Patchouli, Amber"
+    },
+    "category": "Frisch",
+    "stimmung": "Entspannt",
+    "wetter": ["Heiss", "Sonnig", "Wolkig"],
+    "anlass": ["Freizeit", "Date"],
+    "tags": ["Ocean", "Zitrisch", "Aquatisch", "Klassisch", "Leicht"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #f5f5f4 0%, #e7e5e4 100%)",
+      "liquid": "rgba(214, 211, 209, 0.1)",
+      "accent": "#78716c",
+      "cap": "#78716c"
+    }
+  },
+  {
+    "id": "sauvage",
+    "name": "Sauvage",
+    "brand": "Dior",
+    "description": "Eine kraftvolle Frische kündigt eine ungezähmte und noble Offenbarung an. Eine überdosierte Dosis an Bergamotte wird durch herbe Pfeffernoten und tiefes Ambroxan gezähmt.",
+    "style": "Würzig, Frisch, Markant",
+    "notes": {
+      "head": "Kalabrische Bergamotte, Pfeffer",
+      "heart": "Sichuanpfeffer, Lavendel, Rosa Pfeffer, Vetiver, Patchouli, Geranie, Elemiharz",
+      "base": "Ambroxan, Zedernholz, Labdanum"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Wolkig", "Kalt", "Regen"],
+    "anlass": ["Abend", "Date", "Freizeit"],
+    "tags": ["Bestseller", "Ambroxan", "Frisch", "Männlich"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #0f172a 0%, #020617 100%)",
+      "liquid": "rgba(15, 23, 42, 0.3)",
+      "accent": "#ffffff",
+      "cap": "#020617"
+    }
+  },
+  {
+    "id": "aventus",
+    "name": "Aventus",
+    "brand": "Creed",
+    "description": "Inspiriert vom dramatischen Leben eines historischen Herrschers, feiert dieser holzig-fruchtige Nischenduft Stärke, Macht und Erfolg. Ein legendäres Dufterlebnis.",
+    "style": "Fruchtig, Holzig, Luxuriös",
+    "notes": {
+      "head": "Ananas, Bergamotte, Schwarze Johannisbeere, Apfel",
+      "heart": "Birke, Patchouli, Marokkanischer Jasmin, Rose",
+      "base": "Moschus, Eichenmoos, Ambergris, Vanille"
+    },
+    "category": "Holzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Sonnig", "Kalt", "Wolkig"],
+    "anlass": ["Arbeit", "Abend", "Date"],
+    "tags": ["Ananas", "Prestige", "Rauchig", "Luxus"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #3f3f46 0%, #18181b 100%)",
+      "liquid": "rgba(24, 24, 27, 0.4)",
+      "accent": "#fafafa",
+      "cap": "#09090b"
+    }
+  },
+  {
+    "id": "baccarat-rouge",
+    "name": "Baccarat Rouge 540",
+    "brand": "M. Francis Kurkdjian",
+    "description": "Ein unendlich opulenter, ambra-blumiger Duft aus purem Luxus. Die Kopfnoten von kostbarem Safran und Jasmin legen sich sanft auf Tannenharz und Zedernholz.",
+    "style": "Süß, Ambra, Edel",
+    "notes": {
+      "head": "Safran, Jasmin",
+      "heart": "Amberwood, Ambergris",
+      "base": "Tannenbalsam, Zedernholz"
+    },
+    "category": "Blumig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen", "Wolkig"],
+    "anlass": ["Abend", "Date"],
+    "tags": ["Edel", "Zuckerwatte", "Ambra", "Kult"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #b91c1c 0%, #7f1d1d 100%)",
+      "liquid": "rgba(127, 29, 29, 0.35)",
+      "accent": "#f59e0b",
+      "cap": "#7f1d1d"
+    }
+  },
+  {
+    "id": "terre-hermes",
+    "name": "Terre d'Hermès",
+    "brand": "Hermès",
+    "description": "Eine Alchemie aus Erde, Luft und Wasser. Ein holzig-mineralischer Duft, der die warmen Noten von Zeder mit frischer bittersüßer Orange und Feuerstein verbindet.",
+    "style": "Holzig, Mineralisch, Erdig",
+    "notes": {
+      "head": "Orange, Grapefruit",
+      "heart": "Pfeffer, Geranie, Feuerstein",
+      "base": "Vetiver, Zedernholz, Patchouli, Benzoin"
+    },
+    "category": "Holzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Wolkig", "Regen", "Sonnig"],
+    "anlass": ["Arbeit", "Freizeit"],
+    "tags": ["Mineralisch", "Zitrisch", "Erdig", "Klasse"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #fffbeb 0%, #fed7aa 100%)",
+      "liquid": "rgba(254, 215, 170, 0.2)",
+      "accent": "#ea580c",
+      "cap": "#27272a"
+    }
+  },
+  {
+    "id": "black-opium",
+    "name": "Black Opium",
+    "brand": "Yves Saint Laurent",
+    "description": "Faszinierend und voller rebellischer Energie. Ein intensives Spiel aus dunklem Kaffee, cremig-süßer Vanille, Birne und strahlenden weißen Blüten.",
+    "style": "Gourmand, Süß, Sinnlich",
+    "notes": {
+      "head": "Birne, Rosa Pfeffer, Orangenblüte",
+      "heart": "Kaffee, Jasmin, Bittermandel, Süßholz",
+      "base": "Vanille, Patchouli, Zedernholz, Kaschmirholz"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen"],
+    "anlass": ["Abend", "Date"],
+    "tags": ["Kaffee", "Gourmand", "Süß", "Sinnlich", "Nacht"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #1e1b4b 0%, #03001e 100%)",
+      "liquid": "rgba(3, 0, 30, 0.4)",
+      "accent": "#fda4af",
+      "cap": "#03001e"
+    }
+  },
+  {
+    "id": "philosykos",
+    "name": "Philosykos",
+    "brand": "Diptyque",
+    "description": "Eine Hymne an die wilde Feige an den Ufern des Peloponnes. Knackiges grünes Laub, der milchige Saft frischer Feigen und die trockene Wärme des Holzes.",
+    "style": "Frisch, Grün, Natürlich",
+    "notes": {
+      "head": "Feigenblatt, Feige",
+      "heart": "Kokosnuss, Grüne Noten",
+      "base": "Feigenbaum, Zedernholz, Holzige Noten"
+    },
+    "category": "Frisch",
+    "stimmung": "Entspannt",
+    "wetter": ["Sonnig", "Heiss", "Wolkig"],
+    "anlass": ["Freizeit", "Arbeit"],
+    "tags": ["Grün", "Feige", "Natürlich", "Sommer"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #f0fdf4 0%, #bbf7d0 100%)",
+      "liquid": "rgba(187, 247, 208, 0.15)",
+      "accent": "#16a34a",
+      "cap": "#1e293b"
+    }
+  },
+  {
+    "id": "xerjoff-naxos",
+    "name": "Naxos",
+    "brand": "Xerjoff",
+    "description": "Naxos feiert das reiche sizilianische Erbe mit einer modernen Interpretation mediterraner Schönheit. Kostbare Tabaknoten tanzen mit süßem Honig und Lavendel.",
+    "style": "Warm, Süß, Würzig",
+    "notes": {
+      "head": "Lavendel, Bergamotte, Zitrone",
+      "heart": "Honig, Zimt, Kaschmir, Jasmin-Sambac",
+      "base": "Tabakblatt, Tonkabohne, Vanilleschote"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen", "Wolkig"],
+    "anlass": ["Abend", "Date", "Freizeit"],
+    "tags": ["Honig", "Tabak", "Nische", "Süß", "Sizilien"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #fef3c7 0%, #f59e0b 100%)",
+      "liquid": "rgba(245, 158, 11, 0.2)",
+      "accent": "#d4af37",
+      "cap": "#1e293b"
+    }
+  },
+  {
+    "id": "xerjoff-erba-pura",
+    "name": "Erba Pura",
+    "brand": "Xerjoff",
+    "description": "Ein unwiderstehlicher Korb voller köstlicher mediterraner Früchte und spritziger Zitrusnoten, der in einer betörenden Wolke aus Moschus und Vanille mündet.",
+    "style": "Fruchtig, Süß, Frisch",
+    "notes": {
+      "head": "Sizilianische Orange, Sizilianische Zitrone, Kalabrische Bergamotte",
+      "heart": "Mediterrane Früchte",
+      "base": "Weißer Moschus, Vanille aus Madagaskar, Amber"
+    },
+    "category": "Frisch",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Sonnig", "Heiss", "Wolkig"],
+    "anlass": ["Date", "Freizeit"],
+    "tags": ["Fruchtig", "Intensiv", "Süß", "Sommer", "Nische"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #14b8a6 0%, #0d9488 100%)",
+      "liquid": "rgba(13, 148, 136, 0.25)",
+      "accent": "#d4af37",
+      "cap": "#0d9488"
+    }
+  },
+  {
+    "id": "lv-imagination",
+    "name": "Imagination",
+    "brand": "Louis Vuitton",
+    "description": "Die unendliche Kreativität des Geistes, eingefangen im Duft von feinstem schwarzen Tee, frischer Zitrusglut und der mineralischen Reinheit des Ambroxan.",
+    "style": "Frisch, Clean, Edel",
+    "notes": {
+      "head": "Kalabrische Bergamotte, Sizilianische Orange, Citronat-Zitrone",
+      "heart": "Chinesischer schwarzer Tee, Neroli, Ingwer, Kardamom",
+      "base": "Ambroxan, Guajakholz, Weihrauch"
+    },
+    "category": "Frisch",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Sonnig", "Heiss", "Wolkig"],
+    "anlass": ["Arbeit", "Freizeit", "Date"],
+    "tags": ["Tee", "Clean", "Ambroxan", "Kreativ", "Luxus"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #e0f2fe 0%, #7dd3fc 100%)",
+      "liquid": "rgba(125, 211, 252, 0.2)",
+      "accent": "#475569",
+      "cap": "#0f172a"
+    }
+  },
+  {
+    "id": "lv-afternoon-swim",
+    "name": "Afternoon Swim",
+    "brand": "Louis Vuitton",
+    "description": "Ein belebender Sprung in ein Meer voller Glücksgefühle. Eine Vitaminexplosion aus spritzigen Zitrusfrüchten, verfeinert with der Gischt ozeanischer Akkorde.",
+    "style": "Zitrisch, Aquatisch, Belebend",
+    "notes": {
+      "head": "Mandarine, Orange",
+      "heart": "Bergamotte, Ingwer, Salznoten",
+      "base": "Ambra, Weißer Moschus"
+    },
+    "category": "Frisch",
+    "stimmung": "Entspannt",
+    "wetter": ["Heiss", "Sonnig"],
+    "anlass": ["Freizeit"],
+    "tags": ["Zitrisch", "Aquatisch", "Urlaub", "Erfrischend"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #0284c7 0%, #0369a1 100%)",
+      "liquid": "rgba(3, 105, 161, 0.25)",
+      "accent": "#e0f2fe",
+      "cap": "#0f172a"
+    }
+  },
+  {
+    "id": "lv-ombre-nomade",
+    "name": "Ombre Nomade",
+    "brand": "Louis Vuitton",
+    "description": "Ausgerichtet auf Liebhaber edler Rohstoffe. Ein hypnotisierender, tief-holziger Orienttraum rund um das legendäre Adlerholz (Oud) und spritzige Himbeere.",
+    "style": "Holzig, Rauchig, Edel",
+    "notes": {
+      "head": "Himbeere, Safran",
+      "heart": "Rose, Geranie",
+      "base": "Oud (Adlerholz), Weihrauch, Birke, Benzoin"
+    },
+    "category": "Holzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen", "Wolkig"],
+    "anlass": ["Abend", "Date"],
+    "tags": ["Oud", "Weihrauch", "Extrem", "Teuer", "Rauchig"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #1c1917 0%, #0c0a09 100%)",
+      "liquid": "rgba(12, 10, 9, 0.45)",
+      "accent": "#d97706",
+      "cap": "#0c0a09"
+    }
+  },
+  {
+    "id": "gris-dior",
+    "name": "Gris Dior",
+    "brand": "Dior",
+    "description": "Chypre-Akkord, par excellence. Ein legendärer Duft von zeitloser Eleganz, bei dem fruchtige Zitrusnoten auf prächtige Blumen und geheimnisvolles Eichenmoos treffen.",
+    "style": "Elegant, Blumig, Edel",
+    "notes": {
+      "head": "Kalabrische Bergamotte",
+      "heart": "Damaszener Rose, Jasmin-Sambac",
+      "base": "Eichenmoos, Patchouli, Amber, Sandelholz"
+    },
+    "category": "Blumig",
+    "stimmung": "Elegant",
+    "wetter": ["Wolkig", "Regen", "Kalt"],
+    "anlass": ["Arbeit", "Abend", "Date"],
+    "tags": ["Chypre", "Elegant", "Rose", "Klassiker", "Edel"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #e4e4e7 0%, #a1a1aa 100%)",
+      "liquid": "rgba(161, 161, 170, 0.2)",
+      "accent": "#1c1917",
+      "cap": "#27272a"
+    }
+  },
+  {
+    "id": "la-nuit-de-lhomme",
+    "name": "La Nuit de L'Homme",
+    "brand": "Yves Saint Laurent",
+    "description": "Ein unwiderstehlicher Verführer voller dunkler Kontraste. Würziger Kardamom verbindet sich in einer tiefen sensorischen Verlockung mit elegantem Lavendel und edlem Zedernholz.",
+    "style": "Warm, Würzig, Sinnlich",
+    "notes": {
+      "head": "Kardamom",
+      "heart": "Lavendel, Virginia-Zedernholz, Bergamotte",
+      "base": "Vetiver, Kümmel"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen"],
+    "anlass": ["Abend", "Date"],
+    "tags": ["Verführung", "Warm", "Würzig", "Sinnlich"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #27272a 0%, #09090b 100%)",
+      "liquid": "rgba(39, 39, 42, 0.3)",
+      "accent": "#bf9a62",
+      "cap": "#09090b"
+    }
+  },
+  {
+    "id": "pdm-layton",
+    "name": "Layton",
+    "brand": "Parfums de Marly",
+    "description": "Ein aristokratischer Duft, der die vornehme Festlichkeit des Schlosses von Marly zelebriert. Ein süchtig machender Cocktail aus frischem Apfel, Vanille und edlem Kardamom.",
+    "style": "Süß, Würzig, Luxuriös",
+    "notes": {
+      "head": "Apfel, Lavendel, Bergamotte, Mandarinorange",
+      "heart": "Jasmin, Veilchen, Geranie",
+      "base": "Vanille, Kardamom, Sandelholz, Guajakholz, Patchouli, Pfeffer"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen", "Wolkig"],
+    "anlass": ["Date", "Abend", "Arbeit"],
+    "tags": ["Vanille", "Apfel", "Prestige", "Nische", "Kult"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #1e293b 0%, #0f172a 100%)",
+      "liquid": "rgba(30, 41, 59, 0.35)",
+      "accent": "#d4af37",
+      "cap": "#0f172a"
+    }
+  },
+  {
+    "id": "pdm-herod",
+    "name": "Herod",
+    "brand": "Parfums de Marly",
+    "description": "Die pure Opulenz von feinstem Vanilletabak. Edle Gewürze weben einen Teppich aus purem Luxus für anspruchsvolle Genießer.",
+    "style": "Warm, Rauchig, Balsamisch",
+    "notes": {
+      "head": "Zimt, Pfefferbeeren",
+      "heart": "Tabakblatt, Weihrauch, Osmanthus, Labdanum",
+      "base": "Vanilleschote, Iso E Super, Moschus, Zedernholz, Vetiver, Cypriol"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen"],
+    "anlass": ["Abend", "Date"],
+    "tags": ["Tabak", "Vanille", "Rauchig", "Nische", "Opulent"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #78350f 0%, #451a03 100%)",
+      "liquid": "rgba(120, 53, 15, 0.3)",
+      "accent": "#f59e0b",
+      "cap": "#451a03"
+    }
+  },
+  {
+    "id": "lv-limmensite",
+    "name": "L'Immensité",
+    "brand": "Louis Vuitton",
+    "description": "Ein unendlicher Horizont jugendlicher Spannkraft. Ein energetischer Wirbelsturm aus knackiger Grapefruit, frischem Ingwer und der mineralischen Kraft des Ambroxan.",
+    "style": "Zitrisch, Belebend, Luxuriös",
+    "notes": {
+      "head": "Grapefruit, Ingwer, Bergamotte",
+      "heart": "Wassernoten, Salbei, Rosmarin, Geranie",
+      "base": "Ambroxan, Bernstein, Labdanum"
+    },
+    "category": "Frisch",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Heiss", "Sonnig", "Wolkig"],
+    "anlass": ["Arbeit", "Freizeit", "Date"],
+    "tags": ["Ingwer", "Ambroxan", "Frisch", "Luxus", "Sleek"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #f0fdfa 0%, #ccfbf1 100%)",
+      "liquid": "rgba(204, 251, 241, 0.2)",
+      "accent": "#0f172a",
+      "cap": "#0f172a"
+    }
+  },
+  {
+    "id": "kilian-angels-share",
+    "name": "Angels' Share",
+    "brand": "By Kilian",
+    "description": "Das exquisite Elixier der französischen Kognakschränke. Ein warmer Gourmand-Traum von flüssigem Gold, vollendet mit Zimtblättern und betörender Praline.",
+    "style": "Süß, Gourmand, Berauschend",
+    "notes": {
+      "head": "Cognac-Essenz",
+      "heart": "Zimt, Tonkabohne absolute, Eichenholz",
+      "base": "Vanilleschote, Praline, Sandelholz"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen"],
+    "anlass": ["Abend", "Date"],
+    "tags": ["Gourmand", "Cognac", "Zimt", "Süß", "Nische"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #f59e0b 0%, #78350f 100%)",
+      "liquid": "rgba(245, 158, 11, 0.4)",
+      "accent": "#ffffff",
+      "cap": "#78350f"
+    }
+  },
+  {
+    "id": "prada-lhomme",
+    "name": "Prada L'Homme",
+    "brand": "Prada",
+    "description": "Die Perfektion des 'Clean Girl/Boy'-Aesthetics. Ein luxuriöser Hauch frisch gewaschener Wäsche, dominiert von puderiger Iris und zarter Neroli.",
+    "style": "Clean, Seifig, Puderig",
+    "notes": {
+      "head": "Neroli, Schwarzer Pfeffer, Kardamom, Karottensamen",
+      "heart": "Iris, Veilchen, Geranie, Mate",
+      "base": "Amber, Zedernholz, Patchouli, Sandelholz"
+    },
+    "category": "Frisch",
+    "stimmung": "Entspannt",
+    "wetter": ["Sonnig", "Wolkig", "Heiss"],
+    "anlass": ["Arbeit", "Freizeit"],
+    "tags": ["Seifig", "Clean", "Iris", "Puderig", "Täglich"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #f1f5f9 0%, #cbd5e1 100%)",
+      "liquid": "rgba(203, 213, 225, 0.15)",
+      "accent": "#475569",
+      "cap": "#1e293b"
+    }
+  },
+  {
+    "id": "creed-git",
+    "name": "Green Irish Tweed",
+    "brand": "Creed",
+    "description": "Ein Spaziergang durch die vom Morgentau benetzten grünen Landschaften Irlands. Ein zeitloser Nischenklassiker von herber Frische, geliebt von Hollywoods Elite.",
+    "style": "Grün, Herb, Klassisch",
+    "notes": {
+      "head": "Zitronenverbene, Florentiner Iris",
+      "heart": "Veilchenblatt",
+      "base": "Grauer Amber (Ambergris), Sandelholz"
+    },
+    "category": "Frisch",
+    "stimmung": "Elegant",
+    "wetter": ["Wolkig", "Sonnig", "Regen"],
+    "anlass": ["Arbeit", "Freizeit"],
+    "tags": ["Klassisch", "Grün", "Wald", "Krautig", "Prestige"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #064e3b 0%, #022c22 100%)",
+      "liquid": "rgba(2, 44, 34, 0.3)",
+      "accent": "#ffffff",
+      "cap": "#022c22"
+    }
+  },
+  {
+    "id": "creed-smw",
+    "name": "Silver Mountain Water",
+    "brand": "Creed",
+    "description": "Inspiriert von der prickelnden Reinheit der schneebedeckten Schweizer Alpen. Kristallklare Bäche verströmen Noten von spritzigem grünen Tee und schwarzer Johannisbeere.",
+    "style": "Rein, Kristallin, Metallisch",
+    "notes": {
+      "head": "Bergamotte, Mandarinorange",
+      "heart": "Grüner Tee, Schwarze Johannisbeere",
+      "base": "Moschus, Petitgrain, Sandelholz, Galbanum"
+    },
+    "category": "Frisch",
+    "stimmung": "Entspannt",
+    "wetter": ["Sonnig", "Heiss", "Wolkig"],
+    "anlass": ["Freizeit", "Arbeit"],
+    "tags": ["Tee", "Rein", "Alpen", "Metallisch", "Frisch"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #ffffff 0%, #f1f5f9 100%)",
+      "liquid": "rgba(241, 245, 249, 0.15)",
+      "accent": "#94a3b8",
+      "cap": "#cbd5e1"
+    }
+  },
+  {
+    "id": "tf-lost-cherry",
+    "name": "Lost Cherry",
+    "brand": "Tom Ford",
+    "description": "Eine kontrastreiche Reise in die verbotene Fruchtigkeit. Süße Kirschen und warmer Amaretto-Mandellikör münden in einer sinnlichen, holzigen Tiefe.",
+    "style": "Süß, Fruchtig, Sündhaft",
+    "notes": {
+      "head": "Sauerkirsche, Bittermandel, Kirschlikör",
+      "heart": "Sauerkirsche, Pflaume, Türkische Rose, Jasmin-Sambac",
+      "base": "Tonkabohne, Vanille, Zimt, Perubalsam, Benzoin, Sandelholz, Nelke, Zedernholz, Vetiver"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen", "Wolkig"],
+    "anlass": ["Date", "Abend"],
+    "tags": ["Kirsche", "Mandel", "Süß", "Sinnlich", "Gourmand"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #991b1b 0%, #4c0519 100%)",
+      "liquid": "rgba(153, 27, 27, 0.35)",
+      "accent": "#f43f5e",
+      "cap": "#4c0519"
+    }
+  },
+  {
+    "id": "tf-oud-wood",
+    "name": "Oud Wood",
+    "brand": "Tom Ford",
+    "description": "Eine der bahnbrechendsten Kreationen der modernen Parfümerie. Rauchiges, wertvolles Oudholz wird durch sanften Kardamom und cremiges Sandelholz gezähmt.",
+    "style": "Holzig, Würzig, Balsamisch",
+    "notes": {
+      "head": "Rosenholz, Kardamom, Sichuanpfeffer",
+      "heart": "Oud (Adlerholz), Sandelholz, Vetiver",
+      "base": "Tonkabohne, Vanilleschote, Ambergris, Amber"
+    },
+    "category": "Holzig",
+    "stimmung": "Elegant",
+    "wetter": ["Kalt", "Wolkig", "Regen"],
+    "anlass": ["Arbeit", "Date", "Abend"],
+    "tags": ["Oud", "Holzig", "Edel", "Rauchig", "Zacken"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #4b5563 0%, #1f2937 100%)",
+      "liquid": "rgba(31, 41, 55, 0.3)",
+      "accent": "#bf9a62",
+      "cap": "#111827"
+    }
+  },
+  {
+    "id": "jpg-le-male",
+    "name": "Le Male",
+    "brand": "Jean Paul Gaultier",
+    "description": "Der unsterbliche Matrose der Duftwelt. Frische Minze und beruhigender Lavendel legen sich auf eine überdosierte Basis aus himmlischer Vanille.",
+    "style": "Süß, Puderig, Nostalgisch",
+    "notes": {
+      "head": "Lavendel, Minze, Kardamom, Bergamotte, Beifuß",
+      "heart": "Zimt, Orangenblüte, Kümmel",
+      "base": "Vanilleschote, Tonkabohne, Amber, Sandelholz, Zedernholz"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen", "Wolkig"],
+    "anlass": ["Abend", "Freizeit", "Date"],
+    "tags": ["Klassiker", "Vanille", "Kult", "Herbst", "Süß"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #14b8a6 0%, #0f766e 100%)",
+      "liquid": "rgba(20, 184, 166, 0.2)",
+      "accent": "#ffffff",
+      "cap": "#e2e8f0"
+    }
+  },
+  {
+    "id": "jpg-ultra-male",
+    "name": "Ultra Male",
+    "brand": "Jean Paul Gaultier",
+    "description": "Die turbogeladene Boygroup-Partybombe der 2010er Jahre. Knackige Birne vereint mit sündhaftem Zimt und einer verlockend dunklen Vanillebasis.",
+    "style": "Süß, Fruchtig, Exzessiv",
+    "notes": {
+      "head": "Birne, Lavendel, Minze, Bergamotte, Zitrone",
+      "heart": "Zimt, Kümmel, Muskatellersalbei",
+      "base": "Schwarze Vanilleschote, Amber, Patchouli, Zedernholz"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen"],
+    "anlass": ["Abend", "Date"],
+    "tags": ["Birne", "Party", "Clubbing", "Intensiv", "Süß"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #1e3a8a 0%, #172554 100%)",
+      "liquid": "rgba(30, 58, 138, 0.35)",
+      "accent": "#ef4444",
+      "cap": "#1e293b"
+    }
+  },
+  {
+    "id": "versace-dylan-blue",
+    "name": "Dylan Blue Pour Homme",
+    "brand": "Versace",
+    "description": "Die Essenz des modernen mediterranen Liebhabers. Frische Meeresnoten und Grapefruit treffen auf rauchigen Weihrauch und markantes Ambroxan.",
+    "style": "Frisch, Würzig, Aquatisch",
+    "notes": {
+      "head": "Kalabrische Bergamotte, Grapefruit, Feigenblatt, Aquatische Meeresnoten",
+      "heart": "Ambroxan, Patchouli, Schwarzer Pfeffer, Papyrus, Veilchenblatt",
+      "base": "Weihrauch, Mineralischer Moschus, Tonkabohne, Safran"
+    },
+    "category": "Frisch",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Heiss", "Sonnig", "Wolkig"],
+    "anlass": ["Arbeit", "Freizeit", "Abend"],
+    "tags": ["Dunkelblau", "Aquatisch", "Ambroxan", "Männlich", "Frisch"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #172554 0%, #030712 100%)",
+      "liquid": "rgba(23, 37, 84, 0.25)",
+      "accent": "#fbbf24",
+      "cap": "#fbbf24"
+    }
+  },
+  {
+    "id": "versace-eros",
+    "name": "Eros",
+    "brand": "Versace",
+    "description": "Die Manifestation leidenschaftlicher griechischer Mythologie. Beißende Minze und saurer grüner Apfel leiten über zu einer übermächtigen Wolke süßer Vanille.",
+    "style": "Minzig, Süß, Laut",
+    "notes": {
+      "head": "Minzblätter, Zitronenschale, Grüner Apfel",
+      "heart": "Tonkabohne, Ambroxan, Geranienblüte",
+      "base": "Madagaskar-Vanille, Virginische Zeder, Atlas-Zeder, Vetiver, Eichenmoos"
+    },
+    "category": "Frisch",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen", "Wolkig"],
+    "anlass": ["Abend", "Date", "Freizeit"],
+    "tags": ["Clubbing", "Minze", "Süß", "Sinnlich", "Laut"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #0d9488 0%, #115e59 100%)",
+      "liquid": "rgba(13, 148, 136, 0.3)",
+      "accent": "#d4af37",
+      "cap": "#115e59"
+    }
+  },
+  {
+    "id": "chloe-ep",
+    "name": "Chloé Eau de Parfum",
+    "brand": "Chloé",
+    "description": "Die ultimativ strahlende Rose der Gegenwart. Herrlich luftige Pfingstrosen und fruchtige Litschis entfalten ein unbeschreiblich feminines Dufterlebnis.",
+    "style": "Blumig, Pudrig, Rein",
+    "notes": {
+      "head": "Pfingstrose, Litschi, Freesie",
+      "heart": "Damaszener Rose, Maiglöckchen, Magnolie",
+      "base": "Virginische Zeder, Amber"
+    },
+    "category": "Blumig",
+    "stimmung": "Elegant",
+    "wetter": ["Sonnig", "Heiss", "Wolkig"],
+    "anlass": ["Arbeit", "Freizeit", "Date"],
+    "tags": ["Rose", "Blumig", "Feminin", "Rein", "Täglich"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #fafaf9 0%, #f5f5f4 100%)",
+      "liquid": "rgba(245, 245, 244, 0.2)",
+      "accent": "#bf9a62",
+      "cap": "#e7e5e4"
+    }
+  },
+  {
+    "id": "byredo-gypsy-water",
+    "name": "Gypsy Water",
+    "brand": "Byredo",
+    "description": "Eine Ode an die Kultur der Romani und Kiefernnadeln unter freiem Himmel. Sandelholz, Zitrone und feiner Weihrauch umschmeicheln die Seele.",
+    "style": "Holzig, Frisch, Ätherisch",
+    "notes": {
+      "head": "Wacholder, Zitrone, Bergamotte, Pfeffer",
+      "heart": "Kiefernnadeln, Weihrauch, Iriswurzel",
+      "base": "Sandelholz, Vanille, Bernstein"
+    },
+    "category": "Holzig",
+    "stimmung": "Entspannt",
+    "wetter": ["Sonnig", "Wolkig", "Regen"],
+    "anlass": ["Arbeit", "Freizeit"],
+    "tags": ["Kiefer", "Rauchig", "Nische", "Ätherisch"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #ffffff 0%, #f4f4f5 100%)",
+      "liquid": "rgba(244, 244, 245, 0.15)",
+      "accent": "#18181b",
+      "cap": "#18181b"
+    }
+  },
+  {
+    "id": "xerjoff-mefisto",
+    "name": "Mefisto",
+    "brand": "Xerjoff",
+    "description": "Die herrschaftlich-italienische Version maritimer Weite. Ein erfrischender Gravenstein-Apfelkontrast mit tiefen Lavendel- und Iris-Schattierungen.",
+    "style": "Zitrisch, Blumig, Edel",
+    "notes": {
+      "head": "Grapefruit, Kalabrische Bergamotte, Amalfi-Zitrone",
+      "heart": "Lavendel, Iris, Rose",
+      "base": "Moschus, Sandelholz, Virginia-Zeder, Amber"
+    },
+    "category": "Frisch",
+    "stimmung": "Elegant",
+    "wetter": ["Sonnig", "Heiss", "Wolkig"],
+    "anlass": ["Arbeit", "Freizeit", "Date"],
+    "tags": ["Zitrisch", "Iris", "Luxus", "Italien", "Frisch"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #60a5fa 0%, #2563eb 100%)",
+      "liquid": "rgba(37, 99, 235, 0.25)",
+      "accent": "#d4af37",
+      "cap": "#2563eb"
+    }
+  },
+  {
+    "id": "amouage-reflection",
+    "name": "Reflection Man",
+    "brand": "Amouage",
+    "description": "Sinnbild für unaufgeregtes Selbstvertrauen. Ein meisterhaft floraler Herrenduft, bei dem puderige Iris von betörendem Bitterorangenblatt und edlem Sandelholz gerahmt wird.",
+    "style": "Puderig, Blumig, Warm",
+    "notes": {
+      "head": "Rosmarin, Rote Pfefferbeeren, Bitterorangenblätter",
+      "heart": "Neroli, Iris, Jasmin, Ylang-Ylang",
+      "base": "Vetiver, Patchouli, Sandelholz, Zedernholz"
+    },
+    "category": "Blumig",
+    "stimmung": "Elegant",
+    "wetter": ["Sonnig", "Wolkig", "Kalt"],
+    "anlass": ["Arbeit", "Abend", "Date"],
+    "tags": ["Puderig", "Blumig", "Prestige", "Luxus", "Sandelholz"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%)",
+      "liquid": "rgba(229, 231, 235, 0.15)",
+      "accent": "#9ca3af",
+      "cap": "#374151"
+    }
+  },
+  {
+    "id": "initio-side-effect",
+    "name": "Side Effect",
+    "brand": "Initio",
+    "description": "Die absolute Grenzerfahrung des Duftsinns. Tabak, Rum und Vanille entfesseln ein hypnotisches Suchtpotenzial für den ganz großen Auftritt.",
+    "style": "Berauschend, Holzig, Süß",
+    "notes": {
+      "head": "Rum, Tabak",
+      "heart": "Vanille, Zimt",
+      "base": "Leder, Holzige Noten, Safran"
+    },
+    "category": "Würzig",
+    "stimmung": "Selbstbewusst",
+    "wetter": ["Kalt", "Regen"],
+    "anlass": ["Abend", "Date"],
+    "tags": ["Rum", "Tabak", "Nische", "Sinnlich", "Extrem"],
+    "color": {
+      "bottle": "linear-gradient(135deg, #2e1065 0%, #1e1b4b 100%)",
+      "liquid": "rgba(46, 16, 101, 0.4)",
+      "accent": "#d4af37",
+      "cap": "#1e1b4b"
+    }
+  }
+]
