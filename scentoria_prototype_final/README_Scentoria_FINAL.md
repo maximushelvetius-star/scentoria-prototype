@@ -26,7 +26,7 @@ Der Prototyp enthält eine grosse Auswahl realer Duftbeispiele mit Marken, Duftn
 
 
 
-## DER BRANCH "V4-final" IST UNSER FINALER PROTOTYP.
+## DER BRANCH "v4-final" IST UNSER FINALER PROTOTYP.
 
 
 
